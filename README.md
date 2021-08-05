@@ -1,9 +1,9 @@
-### Hi there, I'm Prem - aka [Lucy][website] 👋
+### Hi there, I'm Prem - aka [Lucy]👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)]
+
 ## I'm a student!!!
 
-- 👋 Hi, I’m Premsharaan
+- 👋 Hi, My full name is Premsharaan
 - 🌱 I’m currently tryna learning everything 🤣
 - 💞️ I’m looking to collaborate on anyone
 - 👀 I’m interested in coding, Anime and musics
