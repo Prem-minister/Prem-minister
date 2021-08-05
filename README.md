@@ -26,5 +26,5 @@
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 -->
 [twitter]: https://twitter.com/psharaan
-[instagram]: https://www.instagram.com/prem_minister/?hl=en
+[instagram]: https://www.instagram.com/prem_minister
 [linkedin]: https://my.linkedin.com/in/prem-sharaan-029277185
