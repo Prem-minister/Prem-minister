@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, Anime and musics.
 - 🌱 I’m currently learning web development (HTML, CSS, PHP and JScript) and Java.
 - 💞️ I’m looking to collaborate on anyone
-- 📫 How to reach me Premsharaan380446@Yes.My (IG: Prem_Minister)
+- 📫 How to reach me Premsharaan380446@Yes.My
 
 <!---
 Prem-minister/Prem-minister is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
