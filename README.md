@@ -1,4 +1,4 @@
-### Hi there, I'm Prem - aka [Lucy]👋
+### Hi there, I'm Prem 👋
 
 
 ## I'm a student!!!
