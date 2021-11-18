@@ -4,7 +4,7 @@
 ## I'm a student!!!
 
 - 👋 Hi, My name is Premsharaan
-- 🌱 I’m currently tryna learn everything 🤣
+- 🌱 I’m currently tryna learn everything
 - 💞️ I’m looking to collaborate on anyone
 - 👀 I’m interested in coding, Anime and musics
 - 📫 How to reach me Premsharaan380446@Yes.My
