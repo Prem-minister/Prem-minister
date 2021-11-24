@@ -1,4 +1,4 @@
-### Hola there, I'm Prem 👋
+### Hola, I'm Prem 👋
 
 
 ## I'm a student!!!
