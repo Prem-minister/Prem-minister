@@ -3,7 +3,7 @@
 
 ## I'm a student!!!
 
-- 👋 Hi, My name is Premsharaan
+- 👋 My name is Premsharaan
 - 🌱 I’m currently tryna learn everything
 - 💞️ I’m looking to collaborate with anyone
 - 👀 I’m interested in coding, Anime and musics
