@@ -18,9 +18,6 @@
 
 <br />
 
-<img src = "https://github-readme-stats.vercel.app/api?username=Prem-minister&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
-
 
 
 <!--[website]: https://codeSTACKr.com
@@ -34,3 +31,10 @@
 [twitter]: https://twitter.com/psharaan
 [instagram]: https://www.instagram.com/prem_minister
 [linkedin]: https://my.linkedin.com/in/prem-sharaan-029277185
+
+<br/>
+<img src = "https://github-readme-stats.vercel.app/api?username=Prem-minister&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+
+
+
