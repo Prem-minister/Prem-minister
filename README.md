@@ -7,7 +7,7 @@
 - 🌱 I’m currently tryna learn everything
 - 💞️ I’m looking to collaborate with anyone
 - 👀 I’m interested in coding, Anime and musics
-- 📫 How to reach me Premsharaan380446@Yes.My
+- 📫 How to reach me Premsharaan380446@gmail.com
 
 
 ### Connect with me:
