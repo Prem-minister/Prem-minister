@@ -30,7 +30,7 @@
 -->
 [twitter]: https://twitter.com/psharaan
 [instagram]: https://www.instagram.com/prem_minister
-[linkedin]: https://my.linkedin.com/in/prem-sharaan-029277185
+[linkedin]: https://my.linkedin.com/in/prem-sharaan
 
 <br/>
 <br/>
